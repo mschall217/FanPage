@@ -18,6 +18,8 @@ Please view my first website here: https://mschall217.github.io/FanPage/
 
 Just enjoy this silly web page that I made when I knew absolutely nothing, and listen to a great Blink-182 song! 
 
+![Fan Page](https://user-images.githubusercontent.com/75554590/111885872-bb97ea00-89a0-11eb-82db-48601abfb136.gif)
+
 ## Support
 
 Please [open an issue](https://github.com/fraction/FanPage/issues/new) for support.
